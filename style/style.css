@@ -1,0 +1,15 @@
+
+#header{
+  padding: 60px;
+}
+
+img {
+border-radius: 50%;
+position: absolute;
+border: solid 15px;
+
+left: 0;
+right: 0;
+margin: auto;
+width: 170px;
+}
