@@ -1,8 +1,10 @@
-
-#header{
-  padding: 60px;
+header{
   transition-timing-function: ease;
   transition-duration: 2s;
+}
+#header{
+  padding: 60px;
+  
 
 }
 
@@ -19,6 +21,10 @@ width: 170px;
 
 .butons {
   margin-top: 120px;
+
+}
+
+section{
   transition-timing-function: ease-out;
   transition-duration: 1s;
 }
