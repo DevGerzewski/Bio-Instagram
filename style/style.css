@@ -1,6 +1,9 @@
 
 #header{
   padding: 60px;
+  transition-timing-function: ease;
+  transition-duration: 2s;
+
 }
 
 img {
@@ -12,4 +15,10 @@ left: 0;
 right: 0;
 margin: auto;
 width: 170px;
+}
+
+.butons {
+  margin-top: 120px;
+  transition-timing-function: ease-out;
+  transition-duration: 1s;
 }
